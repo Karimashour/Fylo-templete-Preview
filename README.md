@@ -1,6 +1,6 @@
 # Fylo-template Preview :
 
-https://6565fb91fdc3fd05cf13e43f--gregarious-kangaroo-40930a.netlify.app/
+https://6566002a3b334b082e9c100b--incandescent-arithmetic-51e841.netlify.app/
 
 <img src="./image.png"> <br>
 
